@@ -32,3 +32,4 @@ src/pages/Customer/List/CustomerListDocumentsTablePage copy.jsx
 src/pages/Customer/Custom/DocumentComparisonChatBotPage copy.jsx
 package.json
 package-lock.json
+.vercel
